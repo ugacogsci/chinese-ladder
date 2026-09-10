@@ -73,7 +73,3 @@ Model specifications were checked against official sources on 10 September 2026:
 - [Qwen3 repository](https://github.com/QwenLM/Qwen3)
 - [Kimi K3 repository](https://github.com/MoonshotAI/Kimi-K3)
 - [Kimi K3 model card](https://huggingface.co/moonshotai/Kimi-K3)
-
-## License
-
-No license has been selected. Choose one before inviting reuse or contributions; publishing a repository without a license does not grant general permission to copy or modify its contents.
